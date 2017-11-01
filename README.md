@@ -1,5 +1,8 @@
 ## A simple Chrome Extension showing current RISE price.
-
+## Version
+~~~
+0.0.2
+~~~
 ## Usage
 1. Open `chrome://extensions/` with your Chrome Browser.
 2. Enable Developer Mode
@@ -11,8 +14,12 @@
 RISE - 12267657264235942760R
 ~~~
 
-Honourable mentions: 
+## Chrome webstore
+~~~
+https://chrome.google.com/webstore/detail/rise-ticker/onmpfndopnppalmnpmikclkhdlbhebcn
+~~~
 
+## Honourable mentions: 
 ~~~
 https://github.com/alepop
 ~~~
