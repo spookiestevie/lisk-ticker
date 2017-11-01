@@ -14,7 +14,7 @@
 RISE - 12267657264235942760R
 ~~~
 
-## Chrome webstore
+## Chrome webstore link
 ~~~
 https://chrome.google.com/webstore/detail/rise-ticker/onmpfndopnppalmnpmikclkhdlbhebcn
 ~~~
