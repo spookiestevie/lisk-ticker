@@ -25,7 +25,7 @@ RISE - 12267657264235942760R
 ~~~
 
 ## TODO:
-- [X] Add to the market
+- [X] Add to the chrome web store
 - [ ] Add more features/settings
 - [ ] Add tests
 
