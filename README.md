@@ -1,4 +1,4 @@
-# A simple Chrome Extension showing current Lisk price ticker.
+# A simple Chrome Extension showing current Rise price.
 [![Extension version](https://badgen.net/chrome-web-store/v/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension users](https://badgen.net/chrome-web-store/users/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension rating](https://badgen.net/chrome-web-store/stars/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
