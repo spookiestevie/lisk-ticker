@@ -1,11 +1,11 @@
-const red = "#e85600";
-const green = "#32b643";
-const blue = "#5764c6";
+const red = "#E53C54";
+const green = "#3ebb90";
+const blue = "#3e99d3";
 const availableFeeds = {
-    "lsk": "https://explorer.lisk.io/api/getPriceTicker?",
-    "cmc": "https://api.coinmarketcap.com/v1/ticker/lisk/?convert=EUR"
+    "rise": "https://explorer.rise.vision/api/getPriceTicker?",
+    "cmc": "https://api.coinmarketcap.com/v1/ticker/rise/?convert=EUR"
 };
-const walletAPIUrl = "https://explorer.lisk.io/api/getAccount?address=";
+const walletAPIUrl = "https://explorer.rise.vision/api/getAccount?address=";
 const MINUTE = 60000;
 let timer;
 
@@ -29,7 +29,7 @@ const updateBalance = addressJSON => {
 };
 const checkWallet = wallet => {
   wallet = String(wallet).toUpperCase();
-  if(wallet && /\d\L/.test(wallet)) return getBalance(wallet);
+  if(wallet && /\d\R/.test(wallet)) return getBalance(wallet);
   const errors = {
     "wallet": "Wallet address is not valid"
   };
@@ -66,8 +66,8 @@ const getColor = (oldV, newV) =>
 
 const updateData = value => {
   storage.sync.get(["feed"], ({feed}) => {
-    if (feed === "lsk") {
-      return storage.sync.set({data: value.tickers.LSK});
+    if (feed === "rise") {
+      return storage.sync.set({data: value.tickers.RISE});
     }
 
     let tickers = {};
@@ -161,8 +161,8 @@ const parseFeedData = feed => {
     storage.sync.set({feed: feed});
     return getData(availableFeeds[feed]);
   } else {
-    storage.sync.set({feed: "lsk"});
-    return getData(availableFeeds.lsk);
+    storage.sync.set({feed: "rise"});
+    return getData(availableFeeds.rise);
   }
 };
 

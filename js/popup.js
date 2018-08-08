@@ -5,7 +5,10 @@ const currencyMap = {
   "USD": "$",
   "EUR": "€",
   "RUB": "₽",
-  "BTC": "Ƀ"
+  "BTC": "Ƀ",
+  "CNY": "¥",
+  "JPY": "円",
+  "PLN": "zł"
 };
 
 const form = document.querySelector(".js-currencies"),
