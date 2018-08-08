@@ -1,6 +1,8 @@
 # A simple Chrome Extension showing current Rise price.
 
-https://gyazo.com/f622624526ed43128a6d485cfe3c4b08
+
+![](https://gyazo.com/f622624526ed43128a6d485cfe3c4b08.png =250x250)
+
 
 [![Extension version](https://badgen.net/chrome-web-store/v/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension users](https://badgen.net/chrome-web-store/users/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
