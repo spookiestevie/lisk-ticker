@@ -19,7 +19,9 @@
 3. Click `"Load Unpacked Extension..."`
 4. Select folder with this repository.
 
-## Donation for a ☕
+## Donation for a ![extension-src](https://i.gyazo.com/082a59964320ef0fe4ac1f05bca5c60a.png)
+
+
 ~~~
 RISE - 12267657264235942760R
 ~~~
