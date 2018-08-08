@@ -2,7 +2,7 @@
 
 [Go to rise.vision ↓↓↓][rise-vision-url]
 
-![rise-vision-url](https://i.gyazo.com/e891ece99b6525c7f886768010cd8016.png)
+[![rise-vision-url](https://i.gyazo.com/e891ece99b6525c7f886768010cd8016.png)][rise-vision-url]
 
 [![Extension version](https://badgen.net/chrome-web-store/v/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension users](https://badgen.net/chrome-web-store/users/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
@@ -11,7 +11,7 @@
 
 [Click image install ↓↓↓][extension-src]
 
-![extension-src](https://i.gyazo.com/f622624526ed43128a6d485cfe3c4b08.png)
+[![extension-src](https://i.gyazo.com/f622624526ed43128a6d485cfe3c4b08.png)][extension-src]
 
 ## Local install:
 1. Open `chrome://extensions/` with your Chrome Browser.
