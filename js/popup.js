@@ -37,7 +37,7 @@ const renderWallet = (wallet, balance, data, select, errors) => {
     const calculatedBalance = Number(Number(balance)/100000000),
           calculatedCurrencyBalance = numFormat(calculatedBalance * Number(data[safeSelect]), currencyDecimalPoints);
     document.querySelector('.js-balance').style.display = "block";
-    document.querySelector('.js-balance h4').innerText = `${calculatedBalance.toFixed(3)} LSK`;
+    document.querySelector('.js-balance h4').innerText = `${calculatedBalance.toFixed(3)} RISE`;
     document.querySelector('.js-balance p').innerText = `${currencyMap[safeSelect]}${calculatedCurrencyBalance}`;
   }
   if(errors) {
@@ -51,7 +51,7 @@ const renderWallet = (wallet, balance, data, select, errors) => {
 
 const renderCurrencies = (data, select, feed) => {
   const currencySelected = data && data.hasOwnProperty(select) && select || "USD";
-  const feedSelected = feed || "lsk";
+  const feedSelected = feed || "rise";
   buttons.innerHTML = "";
   data &&  Object.keys(data).map(currency => {
     const label = document.createElement("label");
