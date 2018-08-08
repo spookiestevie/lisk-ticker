@@ -1,12 +1,15 @@
 # A simple Chrome Extension showing current Rise price.
 
-![](https://i.gyazo.com/f622624526ed43128a6d485cfe3c4b08.png)
+![rise-vision-url](https://i.gyazo.com/e891ece99b6525c7f886768010cd8016.png)
 
 [![Extension version](https://badgen.net/chrome-web-store/v/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension users](https://badgen.net/chrome-web-store/users/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension rating](https://badgen.net/chrome-web-store/stars/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 ## Chrome webstore install link:
-[Click me to install!][extension-src]
+
+[Click image install!][extension-src]
+
+![extension-src](https://i.gyazo.com/f622624526ed43128a6d485cfe3c4b08.png)
 
 ## Local install:
 1. Open `chrome://extensions/` with your Chrome Browser.
@@ -25,3 +28,4 @@ RISE - 12267657264235942760R
 - [ ] Add tests
 
 [extension-src]: https://chrome.google.com/webstore/detail/rise-ticker/onmpfndopnppalmnpmikclkhdlbhebcn
+[rise-vision-url]: https://rise.vision/
