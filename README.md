@@ -11,7 +11,7 @@
 
 [Click image install ↓↓↓][extension-src]
 
-[![extension-src](https://i.gyazo.com/f622624526ed43128a6d485cfe3c4b08.png)][extension-src]
+[![extension-src](https://i.gyazo.com/d4a8af26dc1c4c2f70deb7fe8a85b2c4.png)][extension-src]
 
 ## Local install:
 1. Open `chrome://extensions/` with your Chrome Browser.
@@ -30,6 +30,7 @@ RISE - 12267657264235942760R
 - [X] Add to the chrome web store
 - [ ] Add more features/settings
 - [ ] Add tests
+- [ ] Port to firefox
 
 [extension-src]: https://chrome.google.com/webstore/detail/rise-ticker/onmpfndopnppalmnpmikclkhdlbhebcn
 [rise-vision-url]: https://rise.vision/
