@@ -1,12 +1,12 @@
 # A simple Chrome Extension showing current Rise price.
 
-[Go to rise.vision ↓↓↓][rise-vision-url]
-
-[![rise-vision-url](https://i.gyazo.com/e891ece99b6525c7f886768010cd8016.png)][rise-vision-url]
-
 [![Extension version](https://badgen.net/chrome-web-store/v/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension users](https://badgen.net/chrome-web-store/users/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
 [![Extension rating](https://badgen.net/chrome-web-store/stars/onmpfndopnppalmnpmikclkhdlbhebcn)][extension-src]
+
+[Go to rise.vision ↓↓↓][rise-vision-url]
+
+[![rise-vision-url](https://i.gyazo.com/e891ece99b6525c7f886768010cd8016.png)][rise-vision-url]
 ## Chrome webstore install link:
 
 [Click image install ↓↓↓][extension-src]
